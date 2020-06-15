@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Basically this program allows you to upload a csv file, and have it render as an html table. From there you can currently add new entries, as well as export your new csv file. The next additions will be the ability to update and delete entries, refactoring how entries are added, transitioning into material design, styling it a bit more, making the header a navbar so you can easily see it as you scroll down, allowing you to adjust column sizes, and finally making the whole thing into an api to save others some time.
 ## Available Scripts
 
 In the project directory, you can run:
